@@ -117,6 +117,8 @@ const CreatePost = () => {
             <option value="science-fiction">Science & Fiction</option>
             <option value="mystery">Mystery</option>
             <option value="facts">Facts</option>
+            <option value="kids">Kids</option>
+            <option value="philosophy">Philosophy</option>
           </Select>
         </div>
         <div className="flex flex-col items-center justify-between gap-4 p-3 border-2 border-teal-500 border-dashed md:flex-row">
